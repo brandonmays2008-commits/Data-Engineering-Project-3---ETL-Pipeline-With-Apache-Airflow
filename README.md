@@ -41,13 +41,13 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using
 ## 📊 Results
 
 ### ✅ DAG Deployment
-![Environment Running](path/to/figure1.png)
+![Descriptive Alt Text](figure1.png)
 
 ### ✅ DAG Visibility
-![DAG List](path/to/figure2.png)
+![Descriptive Alt Text](figure2.png)
 
 ### ✅ DAG Execution Logs
-![ETL Logs](path/to/figure3.png)
+![Descriptive Alt Text](figure3.png)
 
 All tasks (`extract_data`, `transform_data`, and `load_data`) completed successfully, indicating the pipeline executed end-to-end without errors.
 
